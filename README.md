@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sejal Naik</h1>
 <h3 align="center">Finding passion in Ethical Hacking</h3>
 
-- 🌱 I’m currently learning **Cloud Computing, Python**
+- 🌱 I’m currently learning **Web Technology**
 
 - 📫 How to reach me [**Click Me**](mailto:naiksejal13@gmail.com)
 
